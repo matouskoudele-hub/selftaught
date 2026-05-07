@@ -1,0 +1,10 @@
+datum,polozka,prodano_kusu,sklad_rano,dodavatel,cena_jednotka
+2026-03-01,Pivo 0.5l,42,150,Prazdroj,35
+2026-03-01,Víno 0.7l,8,30,GlobalWines,180
+2026-03-01,Káva (kg),2,10,Jihlavanka,450
+2026-03-02,Pivo 0.5l,35,108,Prazdroj,35
+2026-03-02,Víno 0.7l,5,22,GlobalWines,180
+2026-03-02,Káva (kg),3,8,Jihlavanka,450
+2026-03-03,Pivo 0.5l,85,200,Prazdroj,35
+2026-03-03,Víno 0.7l,15,40,GlobalWines,180
+2026-03-03,Káva (kg),2,15,Jihlavanka,450
