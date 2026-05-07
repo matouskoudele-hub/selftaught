@@ -1,0 +1,197 @@
+════════════════════════════════════════════════════════════
+Konverzace #1 — persona: vztahova_nejistota
+Čas: 2026-03-26T10:11:45.186482
+────────────────────────────────────────────────────────────
+
+ty:
+Mám pocit, že ve vztahu něco není v pořádku, ale nejsem si jistý jestli jsem to já.
+
+daimonio:
+Jaká situace to je? Co přesně se děje? Co tě na tom znejišťuje?
+
+ty:
+Ja jsem se cítím nepříjemně neklidný vůči svému partnerovi a není zřejmé, jestli jsou tyto pocity realistické nebo jen úzkosti.
+
+daimonio:
+Že se cítíš nepříjemně neklidný? To je běžné, ale důležité je si uvědomit, že úzkost může být způsobena také nejistotou o budoucnosti vztahu. Můžeš se ptát sám sebe: Co bys očekával jinak? Co je pro tebe v této situaci důležité?
+
+ty:
+Co bych očekával jinak? Pro mě je důležité mít vztah plný respektu a společné budoucnosti.
+
+daimonio:
+Takže cítíš, že váš partner není dostatečně respektivní nebo že je jeho chování neprůzračné. To může být příčinou úzkosti. Můžeš se ptát sám sebe: Co konkrétně tě znervívuje? Je to něco, co se děje často nebo něco, co ti připomíná minulost?
+
+ty:
+Co konkrétně tě znervívuje? Nejsem si jistý. Mám pocit, že mi něco připomíná minulost.
+
+daimonio:
+Takže cítíš, že váš současný vztah má cosi společného s minulostí nebo že to vyvolává nějaké úzkosti z minulosti. To je důležité uvědomit, aby sis mohl lépe orientovat v současné situaci. Můžeš se ptát sám sebe: Co z minulosti ti na tom působí? Je to něco, co by ses chtěl vyhnout?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #2 — persona: perfekcionista
+Čas: 2026-03-26T10:13:41.511441
+────────────────────────────────────────────────────────────
+
+ty:
+Nevím jestli to má smysl řešit, ale... mám problém s dokončováním věcí.
+
+daimonio:
+Co se děje?
+
+Co tě na tom znejišťuje?
+
+ty:
+Co mám na tom znepokojení? Projekt je nedokončený a necítím se ochotný ho předat s takovou kvalitou, jaká by měl mít.
+
+daimonio:
+Rozpor mezi očekáváním a realitou?
+
+ty:
+Problém je právě ten rozpor mezi očekáváním a skutečností.
+
+daimonio:
+Snaha mít jistotu tam, kde jistota není možná?
+
+Co bys očekával jinak? Co je pro tebe v této situaci důležité?
+
+ty:
+Snaha mít očekávání realitou přiblížená je pro mě důležitá. Mám rád dobrý práce a chtějích jsem, aby se neodkládala.
+
+daimonio:
+Přepracovný tlak a strach z chyby?
+
+Jaké možnosti zvažuješ?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #3 — persona: sebekritik
+Čas: 2026-03-26T10:15:47.194097
+────────────────────────────────────────────────────────────
+
+ty:
+Udělal jsem chybu a nemůžu přestat na to myslet.
+
+daimonio:
+Co přesně se děje? Co tě na tom znejišťuje? Jaké možnosti zvažuješ?
+
+ty:
+Ja jsem udělal chybu a nemohu to pustit. To mne znepokojuje. Mám zvažovat možnost upravit chybu nebo zahájit novou práci.
+
+Jenom česky.
+
+daimonio:
+Jaký je obsah tvoje chyb? Co přesně se stalo? A co bys očekával jinak? Můžeš popsat, jakoby to pro tebe vypadalo, kdyby šlo o jinou možnost?
+
+ty:
+Chyba má vliv na úspěšnost projektu. Stalo se to při upravování kódu. Chtěl bych takovou chybu nikdy neudělat. V ideálním světě bych si před sestavením zkontroloval, zda vše funguje správně. Nyní jsem se přesunul ke znovupracování práce.
+
+daimonio:
+To je pochopitelné. Rozpor mezi očekáváním a realitou může být opravdu frustrující. Jaký je další krok, který bys chtěl udělat, aby se uživateli vyhnul? Jaký je váš plán na další práci?
+
+ty:
+Mám zvažovat možnost upravit chybu nebo zahájit novou práci. Dalším krokem bych si před sestavením zkontroloval, zda vše funguje správně, abych se uživatelům vyhnul podobným problémům.
+
+daimonio:
+To je slušné cíle! Můžeš dalšími kroky udělat, aby ses učil z chyb a zlepšil svou práci? Jaký bys očekával, kdyby ses naučil z této zkušenosti?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #4 — persona: rozhodovaci_paralýza
+Čas: 2026-03-26T10:18:39.600832
+────────────────────────────────────────────────────────────
+
+ty:
+Řeším jednu věc už několik měsíců a pořád nevím, co dělat.
+
+daimonio:
+Jaká situace to je? Co přesně se děje? Co tě na tom znejistíuje? Jaké možnosti zvažuješ? Co bys očekával jinak? Co je pro tebe v této situaci důležité? 
+
+Pojďme to rozložit dál, prosím.
+
+ty:
+Mám pracovní místo, ale je mi zde nedaří. Před tím jsem měl nějaké lepší výdělky a možnosti pro rozvoj. Zatímco teď jsem omezený v tomto směru.
+Mám začít hledat novou práci, ale to mi přinášejí závistivost a strach. Má mne také tlak rodiny, abych neopustil místo práce, které je pro ně stabilní zdroj příjmů.
+Pro mě v této situaci je důležité najít práci, která mi umožní rozvíjet se a nabídnout lépe na rodinu.
+
+daimonio:
+Co bys očekával jinak? Co bys chtěl dosáhnout?
+
+Pojďme to analyzovat trochu blíže. Nelíbí ti, že jsi omezený v možnostech pro rozvoj a výdělek. Také se bojíš, aby ti rodina neopustila, protože je místo práce stabilní zdroj příjmů.
+
+Existuje několik možností, které by mohly být relevantní:
+
+1. Rozhodnout se hledat novou práci, která by ti umožnila další rozvoj a vyšší výdělek.
+2. Pokusit se zlepšit situaci v současné práci, aby mohla být více kompatibilní s tvým cílem na další rozvoj a výdělek.
+
+Co je pro tebe v této situaci důležité?
+
+Pomáhá ti přemýšlet o těchto možnostech a jejich konsekvencích?
+
+ty:
+Nelíbí mi se současná práce. Chtěl bych měl lepší možnosti rozvoje a vyšší výdělek. Ale bojuji se strachem, aby rodina mě neopustila, protože je místo práce stabilní zdroj příjmů.
+
+Pro mě v této situaci je důležité najít práci, která mi umožní rozvíjet se a nabídnout lépe na rodinu. Existují dvě možnosti: 1) Hledat novou práci s lepšími podmínkami nebo 2) Zlepšit situaci v současné práci tak, aby bylo možné se rozvíjet více a mít vyšší výdělek.
+
+daimonio:
+Co bys chtěl dělat, ale bojíš se?
+
+Může existovat nějaký důvod, proč se bojíš? Je to maybe strach z neznáku nebo strach z ztráty stabilního zdroje příjmů pro rodinu?
+
+Pojďme to analyzovat blíže. Co bys očekával, kdyby sis vzal první krok a začal hledat novou práci nebo zlepšit situaci v současné práci? Co bys očekával, kdyby sis rozhodl risknout a změnit situaci?
+
+ty:
+Nejsem jistý, jak bude nová práce reagovat na mého umění a zkušenosti. Na druhou stranu nechci ztratit stabilní zdroj příjmů pro rodinu. Myslím si, že pokusím se zlepšit situaci v současné práci, než bych začal hledat novou.
+
+daimonio:
+Rozumím. Existuje nějaká nejistota o tom, jak by nová práce reagovala na tvé umění a zkušenosti.
+
+Zlepšení situace v současné práci může být prvním krokem k dalšímu rozvoji a vyššímu výdělkem. Co tě vede k úvaze, že bych chtěl zlepšit situaci v současné práci před tím, než bych začal hledat novou?
+
+Pojďme to analyzovat blíže. Existuje nějaký důvod, proč bys chyběl risknout a změnit situaci?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #5 — persona: smysl_práce
+Čas: 2026-03-26T10:20:40.687391
+────────────────────────────────────────────────────────────
+
+ty:
+Mám práci, která je v pohodě, ale mám pocit, že mi něco chybí.
+
+daimonio:
+Jaká situace to je? Co přesně se děje?
+
+(Pokud chybí kontext: Zeptej se na upřesnění)
+
+ty:
+Co mám udělat? Je mi dobrá práce, ale cítím, že chybí něco v životě mně.
+
+Jak to bychom řešili?
+
+daimonio:
+Zaprvé, musíme zjasnit situaci. Co přesně chybí v tvoém životě? Je to something specific, které by mohlo být zaplňováno?
+
+(Ale nejprve: Jaká situace to je? Co přesně se děje?)
+
+ty:
+Mám pocit, že chybí nějaký zážitek nebo výzva. Nyní hledám nové zajímavé aktivity, které by mě mohly naplnit.
+
+daimonio:
+Takže šlape na téma zážitku a výzvy!
+
+To je dobrý začátek. Jaká druhá aktivita by tě mohla zajímat? Co bys rád udělal nebo zažil?
+
+(Pamatuj si: neměň sebeklam, nepředpokládej špatný úmysl)
+
+ty:
+Hledám nějaký hobby nebo aktivitu, která by mě zajímala a poskytla mi zážitek i výzvu. Například lední hokej nebo fotografování přírody.
+
+daimonio:
+Takže hledáš činnost, která tě bude bavit a naplní!
+
+Lední hokej a fotografování přírody jsou skvělé nápadky! Co bys rád dělal více? Měl bys raději sportovní aktivity nebo spíše relaxační činnosti?
+
+(Pamatuj si: personalizace, přizpůsobuj formu komunikace)
+
+

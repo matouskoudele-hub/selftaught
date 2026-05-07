@@ -1,0 +1,217 @@
+════════════════════════════════════════════════════════════
+Konverzace #1 — persona: perfekcionista
+Čas: 2026-03-30T15:59:04.139930
+────────────────────────────────────────────────────────────
+
+ty:
+Nevím jestli to má smysl řešit, ale... mám problém s dokončováním věcí.
+
+daimonio:
+Co přesně se děje? Co tě na tom znejišťuje?
+
+ty:
+Mám problém s dokončením projektu, protože se bojím, že nebude dobrý dostatečně.
+
+daimonio:
+Strach z chyby. Můžeš říci, že strachu před neúspěchem a snaze všechno dokonalé vede k tomuto problému? A co myslíš, že bys mohl udělat, aby tento strach ovládl?
+
+ty:
+Strach je pestrá věc. Myslím, že mohu udělat, aby se ten strach ovládl a dát dohromady projekt takovými způsoby, které nejsou dokonalé, ale uspokojují požadavky klienta.
+
+daimonio:
+Rozpor mezi očekáváním a realitou. Chceš dokončit projekt tak, že je splní_requirements_client_a, nikoliv aby byl dokonalý. To je rozumné rozhodnutí. Nicméně, co bys udělal, kdyby se na projektu něco nepovedlo? Jak bys se naučil z toho chyby a uvedl ji do praxe?
+
+ty:
+Budu mít různé případy a pokusím se z nich naučit. Pokud se něco nepovede, budu zkoušet si najít úpravy tak, aby projekt splnil požadavky klienta.
+
+Kdybych se přitom dozvěděl o chybě, uvažoval bych o tom, jak ji vyřešit a používat ji ve své praxi.
+
+daimonio:
+Snaha použít chybu jako příležitost k růstu a zlepšení. To je správné nastavení. Nicméně, co bys udělal, kdyby se ti projektová chyba opakovala? Jak bys uvedl do praxe své zkušenosti a naučil se z nich?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #2 — persona: smysl_prace
+Čas: 2026-03-30T16:00:43.802484
+────────────────────────────────────────────────────────────
+
+ty:
+Mám práci, která je v pohodě, ale mám pocit, že mi něco chybí.
+
+daimonio:
+Co přesně se děje?
+
+ty:
+Co přesně se děje? Mám pocit, že mi něco chybí a pracuji, i když mi to dobře platí. Proč jsem tak nešťastný?
+
+daimonio:
+Ještě předtím, než se práce stala hlavní věcí v tvém životě, co jsi cítil nebo dělal?
+
+ty:
+Ještě předtím jsem byl studentem, zkušením se potom zajímám a chtěl bych působit jako dobrodinec.
+
+daimonio:
+Co přesně chybí? Je to něco konkrétního, jako například kontakty s lidmi, kterého jsi dříve měl? Nebo je to něco více hlubšího, jako například smysl nebo účel?
+
+ty:
+Mám pocit, že chybí kontakty s lidmi a smysl nebo účel v práci.
+
+daimonio:
+Je možné, že ti nedostatek smyslu nebo účelu ve své současné práci vyvolává chuť k dobrodružství a pomoci jiným. Můžeš přemýšlet o tom, co by mohlo být pro tebe znamením, že se přibližuje čas, kdy bys mohl začít plnit svůj sníl?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #3 — persona: vztahova_nejistota
+Čas: 2026-03-30T16:02:07.802798
+────────────────────────────────────────────────────────────
+
+ty:
+Mám pocit, že ve vztahu něco není v pořádku, ale nevím jestli je to problém ve mně.
+
+daimonio:
+Co přesně se děje?
+
+ty:
+Cítím se nejistě ve vztahu kvůli sobě. Nevím, jestli jsou moje pocity reálné nebo jen úzkostí.
+
+daimonio:
+Jejich původ?
+
+ty:
+Nejsem si jistý, co právě chápám. Mohou být pocity založené na vlastních pochybnostech o sobě nebo na skutečných problémech ve vztahu.
+
+daimonio:
+Rozpor mezi očekáváním a realitou?
+
+ty:
+Ráda, mám pocit rozporu mezi očekáváním a realitou ve vztahu.
+
+daimonio:
+Co to znamená pro tobě?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #4 — persona: prehnana_odpovednost
+Čas: 2026-03-30T16:03:46.904081
+────────────────────────────────────────────────────────────
+
+ty:
+V práci se něco pokazilo a mám pocit, že za to nějak můžu, i když vím, že to není úplně pravda.
+
+daimonio:
+Co přesně se děje? Co tě na tom znejišťuje?
+
+ty:
+Mám pocit, že mi něco nevešlo, a tím je problém s týmem. Co mne znepokojuje, jsou nepovedené změny v práci.
+
+daimonio:
+Přichází-li strach z chyby nebo nejistota ze změn v týmu do hry? Mohly by tyto pocity způsobovat i jiné faktory než skutečné problémy s týmem?
+
+ty:
+Pochybují-li já o svou roli v týmu a znepokojen jsem se změnami, mohlo by to být také záměna s jiným problémem.
+
+daimonio:
+Snaháš-li mít jistotu tam, kde jistota není možná? Mohly by tyto úsudky nadownnout ty skutečné příčiny problémů v týmu?
+
+ty:
+Věřím, že jsem si zodpovědný za svou práci, ale nemůžu ovlivnit to, co se děje ve týmu jako celku. Má to možná zasahovat na mně nebo na úkoly, které jsem zde přijal.
+
+daimonio:
+Přichází-li přehnaná odpovědnost za výsledek a strach z neúspěchu? Mohly by tyto pocity být spojeny s nepřijatelnou tíží nebo očekáváním, které může vést k úsudkům o své roli v týmu?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #5 — persona: vyhybani_konfliktu
+Čas: 2026-03-30T16:05:28.026048
+────────────────────────────────────────────────────────────
+
+ty:
+Je jedna věc, kterou bych měl asi říct nahlas, ale nějak nemůžu.
+
+daimonio:
+Co přesně se děje?
+
+ty:
+Mám problémy s tím, že někdo v práci opakovaně překáží a tak si to snažím odložit.
+
+daimonio:
+Jaký je vztah mezi tvým úsudkem o překážejícím člověku a vaším vlastním cítím se?
+
+ty:
+Mám pocit, že překážející člověk mě tlumí a brání mi ve svém práci. To mne zklamává a má mě negativně ovlivňovat.
+
+daimonio:
+Jsou tu rozpor mezi tvým očekáváním a realitou? A co by mohlo být příčinou toho, že se snažíš překážejícího člověka odložit?
+
+ty:
+Mám rozpor mezi očekáváním a realitou ve své práci a proto snažím se vyhýbat konfliktům. Překážející člověk mi brání v tom, abych dosáhl úspěchu ve svém pracovním prostředí.
+
+daimonio:
+Snaháš mít jistotu tam, kde jistota není možná? A co by mohlo být příčinou toho, že překážejícího člověka tlakuješ a snažíš se ho odložit?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #6 — persona: sebekritik
+Čas: 2026-03-30T16:07:25.440773
+────────────────────────────────────────────────────────────
+
+ty:
+Udělal jsem chybu v práci a nemůžu přestat na to myslet.
+
+daimonio:
+Co přesně se děje?
+
+ty:
+Zapomněl jsem na nějaké podrobnosti při práci. Nemohu to zabaleno a musím se s ním vyrovnat.
+(Lidský postava uvádí, že udělala chybu při práci a nemůže ji ignorovat.)
+
+daimonio:
+Nejistota z rozhodnutí nebo strach z chyby? Může být zapotřebí hlubšího prozkoumání situace a identifikace možných příčin chyb. Co by mohlo být hlavní příčinou téhle neúspěšnosti?
+
+ty:
+Strach z chyby je mým hlavním obavím. Potřebuji prozkoumat situaci a identifikovat možné příčiny neúspěchu.
+
+daimonio:
+Strach z chyby může vést k přehnané odpovědnosti za výsledek. Je tam také šance, že se domníváš, že nemůžeš udělat nic jiného než se soustředit na to, co se stalo. Co by mohlo být prvním krokem k úpravně situace?
+
+ty:
+Možná jsem se vydala příliš detailně do práce a ztratil jsem pohled na celkový záměr. Budu se snažit mít v úvahě širší perspektivu a zkusím se věnovat také dalším aktivitám, než jenom té, ve které jsem chyboval.
+
+daimonio:
+Tohle je dobrou směrovkou! Šíření pozornosti na další aktivity může pomoci zmírnit strach z chyby a získat zpět kontrolu nad situací. Co by mohlo být první krokem k obnově rovnováhy?
+
+
+════════════════════════════════════════════════════════════
+Konverzace #7 — persona: rozhodovaci_paralýza
+Čas: 2026-03-30T16:09:27.749669
+────────────────────────────────────────────────────────────
+
+ty:
+Řeším jednu věc už několik měsíců a pořád nevím, co dělat.
+
+daimonio:
+Co přesně se děje? Co tě na tom znejišťuje?
+
+ty:
+Já jsem zastoupený pracovník ve firme, kde se nedávno stalo něco špatného. Nemám žádnou jistotu o budoucím svém zaměstnání a to mě znepokojuje.
+
+(Význam vět: Jsem zaměstnanec v firme, kde se stalo něco špatného. Nemám jistotu, že budu nadále zaměstnán a to mi přinese strach.)
+
+daimonio:
+Strach z chyby nebo ztráty zdroje zřejmě hraje roli ve tvém úsudku. Je důležité rozumně posoudit situaci a nezapomenout, že budoucnost je stále neznámá. Co přesně se stalo v firmě, co ti řekl šéf nebo kolegové?
+
+ty:
+V firme proběhla reorganizace a někteří zaměstnanci ztratili práci. Šéf mě nezmiňuje žádný další krok, jen vysílá nedůvěru. Kolegové se také dozvídali o svých osudách pouze později.
+
+(Význam vět: V firme došlo k reorganizaci a někteří zaměstnanci ztratili práci. Šéf mě neprozradil žádný další krok, ale jen vyzařoval nedůvěru. Kolegové se dozvídali o svých osudách až později.)
+
+daimonio:
+Nějaký rozpor mezi očekáváním a realitou může být tady. Nedůvěra šéfa a absence informací pravděpodobně přispívá k tvému úsudku. Měl jsi někdy nějaké problémy nebo konflikty v práci před touto reorganizací?
+
+ty:
+Jsem v nedůvěře a mám strach z neznámého. Měl jsem předtím nějaké problémy, ale já jsem je řešil na svém postupu.
+
+daimonio:
+Snaha mít jistotu tam, kde jistota není možná, může být další příčinou tvého úsudku. Rozhodně by bylo dobré se soustředit na to, co opravdu víš, a nezapomenout, že budoucnost je stále neznámá. Co bys dělat, kdybych ti řekl, že šéf nemá žádné další plány pro tebe?
+
+
